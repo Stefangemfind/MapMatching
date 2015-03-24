@@ -1,9 +1,9 @@
 # MapMatching
 A java application that takes GPS points and road lines in the form of .shp files and matches the GPS points to the nearest roads.
 
-The intention of this application is to give other developers a change to make their own implementation of a map matching application.There are few map matching applications available in open source format that allows for customization so hopefully this will assist someone.
+The intention of this application is to give other developers a change to make their own implementation of a map matching application. There are few map matching applications available in open source format that allows for customization so hopefully this will assist someone.
 
-The application uses standard Shape(.shp) files, the kind you will most likely be using if you have worked with applications like ArcGIS.You can chose to export a file from ArcGIS into a .shp file and use it in this application as well, likewise you may import the files created from this application into ArcGIS.
+The application uses standard Shape(.shp) files, the kind you will most likely be using if you have worked with applications like ArcGIS. You can chose to export a file from ArcGIS into a .shp file and use it in this application as well, likewise you may import the files created from this application into ArcGIS.
 
 Layers
 -
