@@ -25,3 +25,7 @@ When you start the application you will be prompted for .shp files. The files to
 * Correction data(Point) .shp file to save.
 * Correction data(Line) .shp file to save.
 * Modification data(Line) .shp file to save.
+
+Acknowledgements
+-
+A special thanks to the people at GeoTools(www.geotools.org) for making a great Java library for geospatial data, this project would have been a lot more difficult without it.
