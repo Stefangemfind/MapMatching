@@ -12,7 +12,8 @@ Layers
 * correctionLineLayer(Line) - Lines showing to where the GPS points has been moved.
 * correctionPointLayer(Point) - Points showing where the GPS points have been moved.
 * modificationLayer(Line) - Modified layer which shows the GPS points after they have been moved.
-  
+If you have any questions in regards to the data or the format, please contact xzh@du.se.
+
 Prerequisites
 -
 This application was coded using Eclipse, JavaSE-1.7 and Maven. Using the pom.xml file provided in the repository you should be able to get all the prerequisites for this application.
