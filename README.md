@@ -12,6 +12,7 @@ Layers
 * correctionLineLayer(Line) - Lines showing to where the GPS points has been moved.
 * correctionPointLayer(Point) - Points showing where the GPS points have been moved.
 * modificationLayer(Line) - Modified layer which shows the GPS points after they have been moved.
+
 If you have any questions in regards to the data or the format, please contact xzh@du.se.
 
 Prerequisites
